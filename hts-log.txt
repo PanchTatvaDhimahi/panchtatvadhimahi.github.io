@@ -1,0 +1,79 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Jan 2022 15:10:07 at http://panchtatva-dhimahi.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://panchtatva-dhimahi.com -O1 "C:\Users\Girish Sharma\Desktop\Panch website\Panch" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:10:09	Warning: 	Note: due to panchtatva-dhimahi.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:14:47	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/girish.sharma14 (from panchtatva-dhimahi.com/)
+15:14:47	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/)
+15:17:59	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=225
+15:17:59	Warning: 	File has moved from panchtatva-dhimahi.com/?p=225 to http://panchtatva-dhimahi.com/ptd-channel/
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/ptd-channel/girish.sharma14 (from panchtatva-dhimahi.com/ptd-channel/)
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/ptd-channel/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/ptd-channel/)
+15:17:59	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=169
+15:17:59	Warning: 	File has moved from panchtatva-dhimahi.com/?p=169 to http://panchtatva-dhimahi.com/what-is-reiki/
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/what-is-reiki/girish.sharma14 (from panchtatva-dhimahi.com/what-is-reiki/)
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/what-is-reiki/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/what-is-reiki/)
+15:17:59	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=190
+15:17:59	Warning: 	File has moved from panchtatva-dhimahi.com/?p=190 to http://panchtatva-dhimahi.com/spiritual-healings/
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/spiritual-healings/girish.sharma14 (from panchtatva-dhimahi.com/spiritual-healings/)
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/spiritual-healings/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/spiritual-healings/)
+15:17:59	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=243
+15:17:59	Warning: 	File has moved from panchtatva-dhimahi.com/?p=243 to http://panchtatva-dhimahi.com/vastu/
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/vastu/girish.sharma14 (from panchtatva-dhimahi.com/vastu/)
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/vastu/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/vastu/)
+15:17:59	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=61
+15:17:59	Warning: 	File has moved from panchtatva-dhimahi.com/?p=61 to http://panchtatva-dhimahi.com/blogs/
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/blogs/girish.sharma14 (from panchtatva-dhimahi.com/blogs/)
+15:17:59	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/blogs/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/blogs/)
+15:19:04	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=36
+15:19:04	Warning: 	File has moved from panchtatva-dhimahi.com/?p=36 to http://panchtatva-dhimahi.com/contact-us/
+15:19:07	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/contact-us/girish.sharma14 (from panchtatva-dhimahi.com/contact-us/)
+15:19:07	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/contact-us/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/contact-us/)
+15:21:12	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=84
+15:21:12	Warning: 	File has moved from panchtatva-dhimahi.com/?p=84 to http://panchtatva-dhimahi.com/nature-cure-naturopathy/
+15:21:12	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/nature-cure-naturopathy/girish.sharma14 (from panchtatva-dhimahi.com/nature-cure-naturopathy/)
+15:21:12	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/nature-cure-naturopathy/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/nature-cure-naturopathy/)
+15:21:12	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=177
+15:21:12	Warning: 	File has moved from panchtatva-dhimahi.com/?p=177 to http://panchtatva-dhimahi.com/importance-of-yog/
+15:21:12	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/importance-of-yog/girish.sharma14 (from panchtatva-dhimahi.com/importance-of-yog/)
+15:21:12	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/importance-of-yog/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/importance-of-yog/)
+15:25:07	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=92
+15:25:07	Warning: 	File has moved from panchtatva-dhimahi.com/?p=92 to http://panchtatva-dhimahi.com/understanding-reike-healing-techniques-5-basic-principles-every-reiki-practitioner-must-understand/
+15:25:07	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/understanding-reike-healing-techniques-5-basic-principles-every-reiki-practitioner-must-understand/girish.sharma14 (from panchtatva-dhimahi.com/understanding-reike-healing-techniques-5-basic-principles-every-reiki-practitioner-must-understand/)
+15:25:07	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/understanding-reike-healing-techniques-5-basic-principles-every-reiki-practitioner-must-understand/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/understanding-reike-healing-techniques-5-basic-principles-every-reiki-practitioner-must-understand/)
+15:25:08	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/author/admin/girish.sharma14 (from panchtatva-dhimahi.com/author/admin/)
+15:25:08	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/author/admin/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/author/admin/)
+15:25:34	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/category/uncategorized/girish.sharma14 (from panchtatva-dhimahi.com/category/uncategorized/)
+15:25:34	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/category/uncategorized/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/category/uncategorized/)
+15:25:36	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=82
+15:25:36	Warning: 	File has moved from panchtatva-dhimahi.com/?p=82 to http://panchtatva-dhimahi.com/does-reiki-really-work/
+15:25:36	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/does-reiki-really-work/girish.sharma14 (from panchtatva-dhimahi.com/does-reiki-really-work/)
+15:25:36	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/does-reiki-really-work/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/does-reiki-really-work/)
+15:25:36	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=80
+15:25:36	Warning: 	File has moved from panchtatva-dhimahi.com/?p=80 to http://panchtatva-dhimahi.com/reiki-natural-healing-an-overview/
+15:25:36	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/reiki-natural-healing-an-overview/girish.sharma14 (from panchtatva-dhimahi.com/reiki-natural-healing-an-overview/)
+15:25:36	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/reiki-natural-healing-an-overview/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/reiki-natural-healing-an-overview/)
+15:25:36	Warning: 	Moved Permanently for panchtatva-dhimahi.com/?p=78
+15:25:36	Warning: 	File has moved from panchtatva-dhimahi.com/?p=78 to http://panchtatva-dhimahi.com/the-most-treasured-healing-theory-is-reiki/
+15:25:36	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/the-most-treasured-healing-theory-is-reiki/girish.sharma14 (from panchtatva-dhimahi.com/the-most-treasured-healing-theory-is-reiki/)
+15:25:36	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/the-most-treasured-healing-theory-is-reiki/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/the-most-treasured-healing-theory-is-reiki/)
+15:25:36	Warning: 	File not parsed, looks like binary: panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-brands-400.woff2
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-light-300.eot (from panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/css/fontawesome-5.min.css?ver=4.4.26)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-light-300.eot? (from panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/css/fontawesome-5.min.css?ver=4.4.26)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-light-300.woff2 (from panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/css/fontawesome-5.min.css?ver=4.4.26)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-light-300.woff (from panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/css/fontawesome-5.min.css?ver=4.4.26)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-light-300.ttf (from panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/css/fontawesome-5.min.css?ver=4.4.26)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-light-300.svg (from panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/css/fontawesome-5.min.css?ver=4.4.26)
+15:25:37	Warning: 	File not parsed, looks like binary: panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-regular-400.woff2
+15:25:37	Warning: 	File not parsed, looks like binary: panchtatva-dhimahi.com/wp-content/plugins/accordions/assets/global/webfonts/fa-solid-900.woff2
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/author/admin/page/2/girish.sharma14 (from panchtatva-dhimahi.com/author/admin/page/2/)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/author/admin/page/2/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/author/admin/page/2/)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/category/uncategorized/page/2/girish.sharma14 (from panchtatva-dhimahi.com/category/uncategorized/page/2/)
+15:25:37	Error: 	"Not Found" (404) at link panchtatva-dhimahi.com/category/uncategorized/page/2/panchtatvadhimahi@gmail.com (from panchtatva-dhimahi.com/category/uncategorized/page/2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 30 seconds : 444 links scanned, 391 files written (26321669 bytes overall) [24234045 bytes received at 26058 bytes/sec], 3808870 bytes transferred using HTTP compression in 69 files, ratio 21%, 4.4 requests per connection
+(40 errors, 28 warnings, 0 messages)
